@@ -1,7 +1,8 @@
 # Guacamole
 ## Ingredients
-* avocado (1.35)
-* lemon (0.64)
-* salt (2)
+* avocado
+* lime
+* salt
 ## Instructions
-An ill-considered change
+* put one avocado into a bowl.
+
